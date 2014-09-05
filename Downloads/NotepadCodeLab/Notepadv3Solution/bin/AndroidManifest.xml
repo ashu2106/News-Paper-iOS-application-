@@ -8,5 +8,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".NoteEdit" />
+         <activity android:name=".Save_dada" />
     </application>
 </manifest> 

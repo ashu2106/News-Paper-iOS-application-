@@ -17,9 +17,10 @@ public final class R {
         public static final int Save_with_encryption=0x7f050008;
         public static final int body=0x7f050007;
         public static final int confirm=0x7f050005;
-        public static final int editText1=0x7f050002;
-        public static final int editText2=0x7f050004;
-        public static final int text1=0x7f050009;
+        public static final int confirm_password=0x7f050004;
+        public static final int editText1=0x7f050009;
+        public static final int initial_password=0x7f050002;
+        public static final int text1=0x7f05000a;
         public static final int textView1=0x7f050000;
         public static final int textView2=0x7f050001;
         public static final int textView3=0x7f050003;
